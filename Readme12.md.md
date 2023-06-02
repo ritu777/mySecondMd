@@ -42,37 +42,37 @@ Employees must complete the following steps in order to complete the feedback fo
 
 **3.Which one of these are a part of responsibilities on cleanliness**: In this question employees select one answer from drop down selection.
 
-![Alt](images/ques4.png)
+![ques4](https://github.com/ritu777/mySecondMd/assets/134774771/fa8a4687-ffbf-40dc-90a9-813780cf91ca)
 
 **4.According to the civic sense,what is our duty**: In this question employees select appropriate answers according to their point of view.
 
-![Alt](images/ques5.png)
+![ques5](https://github.com/ritu777/mySecondMd/assets/134774771/2ca8904e-3e28-459d-9cec-146d61a02565)
 
 **5.Which is not a part of civic sense**: Employees can select one answer from  the list.
 
-![Alt](images/ques6.png)
+![ques6](https://github.com/ritu777/mySecondMd/assets/134774771/0ae19dad-a8ab-4f3a-9e10-57c24b34bf73)
 
 **6. Do we teach our youngsters/children about civic sense**: Employees can select one answer from  the list.
 
-![Alt](images/ques7.png)
+![ques7](https://github.com/ritu777/mySecondMd/assets/134774771/ca7a9849-76a9-4771-8498-5b6e44387099)
 
-**7. Do we spread civic sense knowledge by pamphlet**s: In this section employees can select one answer from the given list.
+**7. Do we spread civic sense knowledge by pamphlet**s: In this section employees can select one answer from the given lis
 
-![Alt](images/ques8.png)
+![ques8](https://github.com/ritu777/mySecondMd/assets/134774771/84feda17-b308-419c-abb3-500eaf39ff3e)
+
 
 **8.Which of the following is an example of civic responsibility**: Choose a good example according to your thoughts.
 
-![Alt](images/ques9.png)
+![ques9](https://github.com/ritu777/mySecondMd/assets/134774771/c2cd3638-b424-4354-9e07-3d5c1b90585d)
+
 
 **9.What can individuals do to promote good civic sense**: choose which option is correct for publicising  good civic sense.
 
-![Alt](images/ques10.png)
-
-
+![ques10](https://github.com/ritu777/mySecondMd/assets/134774771/daa47d41-24b0-4b4f-8c54-c40aaac12c9d)
 
 **10. Which of the following is an example of bad civic sense**: select an option according to your knowledge of civic.
 
-![Alt](images/ques11.png)
+![ques11](https://github.com/ritu777/mySecondMd/assets/134774771/b9b17e9a-7c06-46ac-bac1-bc8c03feee63)
 
  **11.Write two advantages of civic sense**: In this section employees write the answer to this question.
 
