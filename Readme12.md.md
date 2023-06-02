@@ -22,23 +22,23 @@ Mobile/Laptop with good internet connection for access.
 The feedback form was sent to the employees  individual email addresses.
 Employees must complete the following steps in order to complete the feedback form:
 
-![Alt](images/details.png)
+![details](https://github.com/ritu777/mySecondMd/assets/134774771/294996de-7439-4d93-9acb-7fc65d6ef4a7)
 
 
 **Your Full Name** : Employees  must enter their full name.
 **Email Id** : Employees must  login their id.
 
-![Alt](images/q1.png)
+![q1](https://github.com/ritu777/mySecondMd/assets/134774771/6aa5e686-216d-4a8a-94b6-ba16cddbdfc2)
 
 
 
 **1.What is civic sense**:employees select the one answer from drop down selection.
 
-![Alt](images/ques2%201.png)
+![ques2 1](https://github.com/ritu777/mySecondMd/assets/134774771/ddc5ee49-9a0c-4e98-8fcd-27ab96814b37)
 
 **2.Which topic isn't included in civic sense**: In this section employees give the answer to  the question.
 
-![Alt](images/ques3.png)
+![ques3](https://github.com/ritu777/mySecondMd/assets/134774771/4b049a4b-988a-4b9d-8820-ece40e9def66)
 
 **3.Which one of these are a part of responsibilities on cleanliness**: In this question employees select one answer from drop down selection.
 
